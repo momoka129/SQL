@@ -19,8 +19,7 @@ show tables;
 create table student(
     id int,
     name varchar(20),
-    age int,
-    gpa float
+    age int
 );
 
 -- delete table
