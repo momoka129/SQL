@@ -20,9 +20,9 @@ select * from student limit 1, 3;
 select gender,min(age), max(age) from student where age<20 group by gender
 
 /*
- select column||functions||* from table
- where ...
- group by ...
- order by ... [asc||desc]
- limit n || [m,n]
+ select column 5||functions 4||* from table 1
+ where ... 2
+ group by ... 3
+ order by ... [asc||desc] 6
+ limit n || [m,n] 7
  */
