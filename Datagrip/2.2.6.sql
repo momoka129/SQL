@@ -19,3 +19,4 @@ insert into student(id, name, age) values (4,'Zhou',32),(5,'Qi',20);
 delete from student where id < 2;
 
 update student set name='Dalier', age=35 where id = 2;
+
