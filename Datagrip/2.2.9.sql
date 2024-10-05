@@ -1,4 +1,4 @@
-select database()
+select database();
 
 use school;
 
